@@ -102,10 +102,10 @@ function Footer() {
           </div>
           <div className="mt-2 text-xs ">
             Made by <a
-              href="mailto:contact@braydentw.io"
+              href="BaZinga"
               className="text-fun-gray-light font-medium"
             >
-              Brayden Wright
+              BaZinga
             </a>. All rights reserved.
           </div>
         </p>
